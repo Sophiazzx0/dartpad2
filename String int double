@@ -1,0 +1,28 @@
+void main() {
+  String nome = 'joaozin do free fire'; 
+  String nome2 = 'nobruzeira apelao';
+  String nome3 = 'baiacu';
+  String nome4 = 'pepa pig';
+  
+  print(nome != nome2);
+  print(nome3 == nome4);
+  
+  
+  int idade = 10;  
+  int idade2 = 14;  
+  int idade3 = 18;
+  int idade4 = 5;
+  
+  print( idade == idade2);
+  print (idade3 != idade4);
+    
+ double altura = 1.44;
+   double altura2 = 1.22;
+   double altura3 = 1.64;
+   double altura4 = 1.13;
+ 
+  print(altura != altura2);
+  print(altura3 == altura4);
+
+    
+}
